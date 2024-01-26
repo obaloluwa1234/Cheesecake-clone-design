@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.intro-paragraph {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px; 
+   
+   
+}
+.slogan-paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    
+}
+
+.paragraph-line {
+    display: block;
+}
+.paragraph-line2 {
+    display: block;
+}
