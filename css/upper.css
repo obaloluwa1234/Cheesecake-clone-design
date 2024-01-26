@@ -17,30 +17,46 @@
     border: solid;
     text-align: center;
     padding: 8px 10px;
+    padding-right:50px ;
     border-radius: 10px;
     justify-content: space-between;
     background-color: #61481C;
+    height: 5px;
+    font-size: x-small;
+    color: white;
+    margin-right: 40px;
+    margin-right: 50px;
+}
+.home-div {
+    background-color: white;
+    color: black;
+    width: 40px;
+    height: 15px;
+    border-radius: 8px;
+
 }
 
 right-section {
     margin-left: 10px;
 }
 
-.common-buttons {
-    background-color: #61481C;
-    color: white;
-    border-radius: 7px;
+.signup-btn {
+    background-color: antiquewhite;
+    border-radius: 14px;
+    color: #61481C;
+    padding: 8px;
+    font-size: x-small;
+    border: solid;
+    
 }
-.home-btn {
-    background-color: white;
-    color: black;
-}
+
+
 .upper-part1 {
     background-color: #EEC373;
     margin-top: 70px;
     margin-left: 20px;
     width: 400px;
-    height: 150px;
+    height: 200px;
     padding: 20px;
 }
 
@@ -52,6 +68,25 @@ right-section {
     left: 280px;
     bottom: 10px;
     border-radius: 70px;
+}
+
+.getstarted-btn {
+    background-color: #61481C;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 18px;
+    margin-right: 15px;
+    font-size: x-small;
+}
+
+.demo-btn {
+    background-color: #EEC373;
+    color: #61481C;
+    padding: 9px;
+    border-radius: 10px;
+    font-size: x-small;
+
 }
 
 
