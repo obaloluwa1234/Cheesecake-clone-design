@@ -4,13 +4,15 @@ body {
 
 .intro-paragraph {
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 15px; 
+   font-size: 15px;
+   line-height: 20px; 
    
    
 }
 .slogan-paragraph {
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
+    line-height: 15px;
     
 }
 
@@ -19,4 +21,11 @@ body {
 }
 .paragraph-line2 {
     display: block;
+}
+
+.container-grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    mar
+
 }

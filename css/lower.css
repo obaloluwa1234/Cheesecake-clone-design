@@ -1,0 +1,18 @@
+.container3 {
+    display: flex;
+    align-items: center;
+    background-color:#E8D8C4;
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin-top: -69.68px;
+    
+}
+
+.menu-flexrow {
+    display: flex;
+    flex-direction: row;
+    
+    
+}

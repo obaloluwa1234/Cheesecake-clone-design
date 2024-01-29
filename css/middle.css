@@ -1,0 +1,56 @@
+.container2 {
+    display: flex;
+    align-items: center;
+    background-color:#FDF0D1;
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+}
+
+
+.cake1-image {
+    border-radius: 40px;
+    margin-right: 20px;
+    
+}
+.content1{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   line-height: 0; 
+}
+.content2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    line-height: 0;
+}
+.content3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+}
+.breakline {
+    display: block;
+}
+.content4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+}
+
+.breakline2 {
+    display: block;
+}
+
+.read-btn {
+    background-color: #61481C;
+    color: white;
+    border-radius: 10px;
+    font-size: x-small;
+    padding: 6px;
+    margin-top: 8px;
+
+}
+
+    
+   
+
+ 

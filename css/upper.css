@@ -51,7 +51,7 @@ right-section {
 }
 
 
-.upper-part1 {
+.container1 {
     background-color: #EEC373;
     margin-top: 70px;
     margin-left: 20px;
@@ -65,8 +65,8 @@ right-section {
 }
 .cake5-image {
     position: absolute;
-    left: 280px;
-    bottom: 10px;
+    left: 180px;
+    bottom: 30px;
     border-radius: 70px;
 }
 
