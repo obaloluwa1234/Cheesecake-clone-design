@@ -1,7 +1,8 @@
 body {
     background-color: black;
 }
-
+  
+  
 .intro-paragraph {
    font-family: Arial, Helvetica, sans-serif;
    font-size: 15px;
@@ -26,6 +27,28 @@ body {
 .container-grid {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
-    mar
+    position: absolute;
 
+
+}
+
+.second-section {
+    margin-left: 550px;
+}
+.heading {
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 28px;
+    color: white;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.heading2 {
+    margin-left: 800px;
+}
+
+.overall-container {
+    position: absolute;
 }
